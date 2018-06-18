@@ -1,0 +1,26 @@
+{
+  "name": "tradesatoshi-js",
+  "version": "0.1.0",
+  "description": "API wrapper for TradeSatoshi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nge6427/tradesatoshi-js.git"
+  },
+  "keywords": [
+    "tradesatoshi"
+  ],
+  "author": "Gelfman (nge6427)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nge6427/tradesatoshi-js/issues"
+  },
+  "homepage": "https://github.com/nge6427/tradesatoshi-js#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
